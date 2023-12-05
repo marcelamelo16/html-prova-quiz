@@ -1,0 +1,422 @@
+#cabecalho {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: pink;
+    flex-direction: row;
+    padding: 0 10%;
+    height: 3.5em;
+    box-shadow: 1px 1px 4px black;
+    font-family: sans-serif;
+    border-radius: 5px 5px;
+}
+
+#textcabecalho {
+    color: rgb(7, 2, 2);
+}
+
+#telainicial {
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: center;
+    background-color: pink;
+    padding: 250px;
+}
+
+#img1 {
+    padding: 20px;
+    border:black;
+    border-radius: 25px;
+    border-width: 30px;
+    width:450px;
+}
+
+#btiniciar {
+    font-size: 15px;
+    background: #4CAF50;
+    color: white;
+    border: none;
+    padding: 15px;
+    width: 100px;
+    border-radius: 5px;
+}
+
+
+#questao1 {
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: center;
+    background-color: pink;
+    padding: 300px;
+}
+
+
+#pgt1 {
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: start;
+    background-color: white;
+    padding: 20px;
+}
+
+
+#btvddc1 {
+    background: black;
+    color: white;
+    border: none;
+    padding: 8px;
+    width: 800px;
+    border-radius: 8px;
+    font-size: 20px;
+}
+
+#btfalsoa1 {
+    background: black;
+    color: white;
+    border: none;
+    padding: 8px;
+    width: 800px;
+    border-radius: 8px;
+    font-size: 20px;
+}
+
+#btfalsob1 {
+    background: black;
+    color: white;
+    border: none;
+    padding: 8px;
+    width: 800px;
+    border-radius: 8px;
+    font-size: 20px;
+}
+
+#btfalsod1 {
+    background: black;
+    color: white;
+    border: none;
+    padding: 8px;
+    width: 800px;
+    border-radius: 8px;
+    font-size: 20px;
+}
+
+
+#questao2 {
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: center;
+    background-color: pink;
+    padding: 300px;
+}
+
+
+#pgt2 {
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: start;
+    background-color: white;
+    padding: 20px;
+}
+
+
+#btvdda2 {
+    background: black;
+    color: white;
+    border: none;
+    padding: 8px;
+    width: 800px;
+    border-radius: 8px;
+    font-size: 20px;
+}
+
+#btfalsob2 {
+    background: black;
+    color: white;
+    border: none;
+    padding: 8px;
+    width: 800px;
+    border-radius: 8px;
+    font-size: 20px;
+}
+
+#btfalsoc2 {
+    background: black;
+    color: white;
+    border: none;
+    padding: 8px;
+    width: 800px;
+    border-radius: 8px;
+    font-size: 20px;
+}
+
+#btfalsod2 {
+    background: black;
+    color: white;
+    border: none;
+    padding: 8px;
+    width: 800px;
+    border-radius: 8px;
+    font-size: 20px;
+}
+
+
+#questao3 {
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: center;
+    background-color: pink;
+    padding: 300px;
+}
+
+
+#pgt3 {
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: start;
+    background-color: white;
+    padding: 20px;
+}
+
+
+#btvddd3 {
+    background: black;
+    color: white;
+    border: none;
+    padding: 8px;
+    width: 800px;
+    border-radius: 8px;
+    font-size: 20px;
+}
+
+#btfalsoa3 {
+    background: black;
+    color: white;
+    border: none;
+    padding: 8px;
+    width: 800px;
+    border-radius: 8px;
+    font-size: 20px;
+}
+
+#btfalsob3 {
+    background: black;
+    color: white;
+    border: none;
+    padding: 8px;
+    width: 800px;
+    border-radius: 8px;
+    font-size: 20px;
+}
+
+#btfalsoc3 {
+    background: black;
+    color: white;
+    border: none;
+    padding: 8px;
+    width: 800px;
+    border-radius: 8px;
+    font-size: 20px;
+}
+
+
+#questao4 {
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: center;
+    background-color: pink;
+    padding: 300px;
+}
+
+
+#pgt4 {
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: start;
+    background-color: white;
+    padding: 20px;
+}
+
+
+#btvddc4 {
+    background: black;
+    color: white;
+    border: none;
+    padding: 8px;
+    width: 800px;
+    border-radius: 8px;
+    font-size: 20px;
+}
+
+#btfalsoa4 {
+    background: black;
+    color: white;
+    border: none;
+    padding: 8px;
+    width: 800px;
+    border-radius: 8px;
+    font-size: 20px;
+}
+
+#btfalsob4 {
+    background: black;
+    color: white;
+    border: none;
+    padding: 8px;
+    width: 800px;
+    border-radius: 8px;
+    font-size: 20px;
+}
+
+#btfalsod4 {
+    background: black;
+    color: white;
+    border: none;
+    padding: 8px;
+    width: 800px;
+    border-radius: 8px;
+    font-size: 20px;
+}
+
+
+#questao5 {
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: center;
+    background-color: pink;
+    padding: 300px;
+}
+
+
+#pgt5 {
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: start;
+    background-color: white;
+    padding: 20px;
+}
+
+
+#btvdda5 {
+    background: black;
+    color: white;
+    border: none;
+    padding: 8px;
+    width: 800px;
+    border-radius: 8px;
+    font-size: 20px;
+}
+
+#btfalsob5 {
+    background: black;
+    color: white;
+    border: none;
+    padding: 8px;
+    width: 800px;
+    border-radius: 8px;
+    font-size: 20px;
+}
+
+
+#telafinal {
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: center;
+    background-color: pink;
+    padding: 100px;
+}
+
+#img2 {
+    padding: 20px;
+    border:black;
+    border-radius: 25px;
+    border-width: 30px;
+    width:400px;
+}
+
+#btrespostas {
+    font-size: 15px;
+    background:red;
+    color: white;
+    border: none;
+    padding: 15px;
+    width: 100px;
+    border-radius: 5px;
+}
+
+
+#telarespostas{
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: center;
+    background-color: pink;
+    padding: 300px;
+}
+
+#titulorespostas {
+    color: rgb(7, 2, 2);
+}
+
+#rest1 {
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: start;
+    background-color: palevioletred;
+    padding: 20px;
+    border: none;
+    border-radius: 50px;
+}
+
+#rest2 {
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: start;
+    background-color: palevioletred;
+    padding: 20px;
+    border: none;
+    border-radius: 50px;
+}
+
+#rest3 {
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: start;
+    background-color: palevioletred;
+    padding: 20px;
+    border: none;
+    border-radius: 50px;
+}
+
+#rest4 {
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: start;
+    background-color:palevioletred;
+    padding: 20px;
+    border: none;
+    border-radius: 50px;
+}
+
+#rest5 {
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: start;
+    background-color: palevioletred;
+    padding: 20px;
+    border: none;
+    border-radius: 50px;
+}
+
+#btrecomeçar {
+    font-size: 15px;
+    background:red;
+    color: white;
+    border: none;
+    padding: 15px;
+    width: 100px;
+    border-radius: 5px;
+}
+
+#textfinal {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
